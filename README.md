@@ -37,4 +37,4 @@ E pretendo continuar estudando e buscando cada vez mais para meu aperfeiçoament
   <img src="https://i.imgur.com/O3VSJ8W.png" largura=90%">
 </p>
 
-###### Você pode acessar através desse <a href='https://willolivers.github.io/NLW/'>Link!</a> 
+###### Você pode acessar através desse <a href='https://willolivers.github.io/nlw-esports-explorer/'>Link!</a> 
